@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">AndroidLearn1</string>
+    <string name="app_name">AndroidLearn Lesson one</string>
     <string name="helloworld">Hello World!</string>
+    <string name="hello_world_activity">HelloWorldActivity Button</string>
+    <string name="orientation_activity_button">OrientationActivity Button</string>
+    <string name="button">Button</string>
+    <string name="add_one_button">+1</string>
+    <string name="add_two_button">+2</string>
+    <string name="view_model_activity_button">ViewModel Example</string>
 </resources>

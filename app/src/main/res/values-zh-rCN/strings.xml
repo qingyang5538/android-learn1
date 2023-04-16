@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="helloworld">Hello World!</string>
-    <string name="hello_world_activity">HelloWorldActivity Button</string>
-    <string name="orientation_activity_button">OrientationActivity Buton</string>
+    <string name="app_name">Android学习第一课</string>
+    <string name="helloworld">你好世界！</string>
+    <string name="hello_world_activity">HelloWorldActivity 按钮</string>
+    <string name="orientation_activity_button">屏幕旋转按钮</string>
     <string name="button">Button</string>
     <string name="add_one_button">+1</string>
     <string name="add_two_button">+2</string>

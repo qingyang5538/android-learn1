@@ -4,29 +4,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ViewModelActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <Button
-            android:id="@+id/hello_world_activity_button"
+        <TextView
+            android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/hello_world_activity" />
+            android:text="TextView"
+            android:textSize="24sp" />
 
         <Button
-            android:id="@+id/orientation_activity_button"
+            android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/orientation_activity_button" />
+            android:text="@string/add_one_button" />
 
         <Button
-            android:id="@+id/view_model_activity_button"
+            android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/view_model_activity_button" />
+            android:text="@string/add_two_button" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
