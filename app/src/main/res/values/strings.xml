@@ -7,4 +7,9 @@
     <string name="add_one_button">+1</string>
     <string name="add_two_button">+2</string>
     <string name="view_model_activity_button">ViewModel Example</string>
+    <string name="live_data_activity_button">LiveDataExample</string>
+    <string name="image_button_description_like">description</string>
+    <string name="image_button_description_dislike">dislike</string>
+    <string name="data_bnding_button">Data Binding</string>
+    <string name="data_binding_activity_button">Data Binding</string>
 </resources>

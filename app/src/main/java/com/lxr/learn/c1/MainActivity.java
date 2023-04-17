@@ -23,5 +23,13 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this,ViewModelActivity.class);
             startActivity(intent);
         });
+        findViewById(R.id.live_data_activity_button).setOnClickListener((view)->{
+            Intent intent = new Intent(this,LiveDataActivity.class);
+            startActivity(intent);
+        });
+        findViewById(R.id.data_binding_activity_button).setOnClickListener((view)->{
+            Intent intent = new Intent(this,DataBindingActivity.class);
+            startActivity(intent);
+        });
     }
 }
